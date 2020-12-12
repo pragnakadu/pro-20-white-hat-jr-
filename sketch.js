@@ -10,16 +10,16 @@ function setup() {
 
   c1=createSprite(200, 350, 50, 50);
   c1.shapeColor="blue"
-  c1.velocityX=4
+  c1.velocityX=speed
   c2=createSprite(200,250,50,50);
   c2.shapeColor="brown"
-  c2.velocityX=4
+  c2.velocityX=speed
   c3=createSprite(200,150,50,50);
   c3.shapeColor="black"
-  c3.velocityX=2.5
+  c3.velocityX=speed
   c4=createSprite(200,50,50,50);
   c4.shapeColor="white"
-  c4.velocityX=3
+  c4.velocityX=speed
 
   
 
